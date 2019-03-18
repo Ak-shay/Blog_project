@@ -1,1 +1,1 @@
-# Blog_project
+Django Girls blog project
